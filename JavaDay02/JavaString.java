@@ -5,7 +5,6 @@ public class JavaString {
 
         String b = "pronoy akta valo chele";
 
-           
 
         System.out.println(a);
         System.out.println(a.length());
